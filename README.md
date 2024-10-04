@@ -16,8 +16,6 @@ A simple React app for discovering games.
    git clone https://github.com/habert-kungu/discovery.git
    ```
 
-````
-
 2. Navigate to the project directory:
 
    ```bash
@@ -49,7 +47,5 @@ Feel free to open issues or submit pull requests to improve the app.
 This project is licensed under the MIT License.
 
 ```
-
 This provides an easy overview for anyone visiting your project and looking to get started.
 ```
-````
